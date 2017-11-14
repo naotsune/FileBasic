@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick(View view) {
         int aaa = 5;
+        int bbb = 10;
         try {
             //memo.datへの書き込みを準備
             BufferedWriter writer = new BufferedWriter(
